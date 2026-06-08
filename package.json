@@ -1,0 +1,16 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "this is marhaba react by umar shaikh",
+  "keywords": [],
+  "license": "ISC",
+  "author": "Shaikh MOHD Umar",
+  "type": "commonjs",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
+}
